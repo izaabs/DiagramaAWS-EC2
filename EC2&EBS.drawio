@@ -1,0 +1,69 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0">
+  <diagram name="Page-1" id="aaaa8250-4180-3840-79b5-4cada1eebb92">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JsPG7lfWE3D2UmMoYPY5-16" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=light-dark(#0080F0,#FFFFFF);shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="360" width="1120" height="491" as="geometry" />
+        </mxCell>
+        <mxCell id="JsPG7lfWE3D2UmMoYPY5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;flowAnimation=1;" edge="1" parent="1" source="JsPG7lfWE3D2UmMoYPY5-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="710" as="targetPoint" />
+            <mxPoint x="254" y="710" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsPG7lfWE3D2UmMoYPY5-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;EBS&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.ebs;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;strokeColor2=#292929;" vertex="1" parent="1">
+          <mxGeometry x="70" y="650" width="184" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JsPG7lfWE3D2UmMoYPY5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;flowAnimation=1;" edge="1" parent="1" source="JsPG7lfWE3D2UmMoYPY5-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsPG7lfWE3D2UmMoYPY5-3" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.web2;fillColorStyles=fillColor2,fillColor3;fillColor2=#032d60;fillColor3=#ffffff;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="890" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="JsPG7lfWE3D2UmMoYPY5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;flowAnimation=1;" edge="1" parent="1" source="JsPG7lfWE3D2UmMoYPY5-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsPG7lfWE3D2UmMoYPY5-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;user&lt;/font&gt;" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="930" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JsPG7lfWE3D2UmMoYPY5-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;EC2&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application_server;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;strokeColor2=#292929;" vertex="1" parent="1">
+          <mxGeometry x="430" y="630" width="153" height="154.24" as="geometry" />
+        </mxCell>
+        <mxCell id="JsPG7lfWE3D2UmMoYPY5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;flowAnimation=1;" edge="1" parent="1" source="JsPG7lfWE3D2UmMoYPY5-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="710" as="targetPoint" />
+            <mxPoint x="658.0000000000005" y="910" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsPG7lfWE3D2UmMoYPY5-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;EBS&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.ebs;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;strokeColor2=#292929;" vertex="1" parent="1">
+          <mxGeometry x="750" y="650" width="184" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JsPG7lfWE3D2UmMoYPY5-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;RDS&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="450" width="118" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="JsPG7lfWE3D2UmMoYPY5-13" value="envia algum arquivo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="40" y="810" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JsPG7lfWE3D2UmMoYPY5-17" value="&lt;font style=&quot;font-size: 29px; color: light-dark(rgb(0, 0, 0), rgb(255, 153, 51));&quot;&gt;AWS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="520" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JsPG7lfWE3D2UmMoYPY5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;flowAnimation=1;" edge="1" parent="1" source="JsPG7lfWE3D2UmMoYPY5-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="495" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="507" y="495" />
+              <mxPoint x="610" y="495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
